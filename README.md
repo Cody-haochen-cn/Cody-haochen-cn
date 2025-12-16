@@ -12,7 +12,7 @@
 
 ### ⭐ super-battery（Windows 超级续航自动切换脚本）
 离电自动省电，插电自动恢复：可停止服务/进程、禁用虚拟网卡、切电源策略。  
-👉 仓库：https://github.com/Cody-haohen-cn/super-battery
+👉 仓库：https://github.com/Cody-haochen-cn/super-battery
 
 ### 📘 python-homework-record（Python 练习与作业记录）
 记录每周练习、题目与代码实现。  
