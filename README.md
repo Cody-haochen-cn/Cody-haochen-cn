@@ -18,14 +18,6 @@
 记录每周练习、题目与代码实现。  
 👉 仓库：https://github.com/Cody-haohen-cn/python-homework-record
 
----
-
-## 🧩 技术栈 / Skills
-
-- **语言**：Python / PowerShell（学习中）
-- **方向**：IoT / 自动化 / Web（Flask 学习中）
-- **工具**：Git / GitHub / VS Code
-- **系统**：Windows（脚本与优化）
 
 ---
 
@@ -36,21 +28,3 @@
 - 🔄 Web：Flask 基础（进行中）
 - 🔄 IoT：ESP8266 + MicroPython（进行中）
 - 🔄 工程化：Git 分支管理、README、Release、开源规范（进行中）
-
----
-
-## 📌 我的一些小目标
-
-- [ ] 做一个可用的“自动化工具”（脚本 + 文档 + 发布）
-- [ ] 做一个 ESP8266 小项目（传感器 + 上报 + 可视化）
-- [ ] 做一个简单 Web 项目（Flask + 登录/数据展示）
-- [ ] 把项目写成教程分享给同学
-
----
-
-## 📝 使用说明（给路过的人）
-
-如果你对我的项目感兴趣：
-1. 先看每个仓库的 `README.md`
-2. 有问题欢迎提 Issue（如果我开了 Issues）
-3. 也欢迎建议，一起改进 🎉
